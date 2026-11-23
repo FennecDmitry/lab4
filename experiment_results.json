@@ -1,0 +1,8 @@
+{
+    "model_name": "Voting (RandomForest + GradientBoosting)",
+    "roc_auc": 0.8309523809523809,
+    "accuracy": 0.805,
+    "precision": 0.8344370860927153,
+    "recall": 0.9,
+    "f1": 0.865979381443299
+}
